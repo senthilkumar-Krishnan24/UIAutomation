@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-06T18:53:38Z" name="UIAutomation_RegressionTesting" finished-at="2024-03-06T18:53:41Z" duration-ms="3296">
+  <suite started-at="2024-03-08T16:08:21Z" name="UIAutomation_RegressionTesting" finished-at="2024-03-08T16:08:24Z" duration-ms="3267">
     <groups>
       <group name="Regression Test Suite">
         <method signature="loginPageTest.loginApplication()[pri:0, instance:com.uiautomation.test.loginPageTest@568ff82]" name="loginApplication" class="com.uiautomation.test.loginPageTest"/>
       </group> <!-- Regression Test Suite -->
     </groups>
-    <test started-at="2024-03-06T18:53:38Z" name="UIAutomation" finished-at="2024-03-06T18:53:41Z" duration-ms="3296">
+    <test started-at="2024-03-08T16:08:21Z" name="UIAutomation" finished-at="2024-03-08T16:08:24Z" duration-ms="3267">
       <class name="com.uiautomation.test.loginPageTest">
-        <test-method is-config="true" signature="browserUp(java.lang.String)[pri:0, instance:com.uiautomation.test.loginPageTest@568ff82]" started-at="2024-03-06T18:53:38Z" name="browserUp" finished-at="2024-03-06T18:53:40Z" duration-ms="2729" status="PASS">
+        <test-method is-config="true" signature="browserUp(java.lang.String)[pri:0, instance:com.uiautomation.test.loginPageTest@568ff82]" started-at="2024-03-08T16:08:21Z" name="browserUp" finished-at="2024-03-08T16:08:23Z" duration-ms="2793" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -21,11 +21,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserUp -->
-        <test-method signature="loginApplication()[pri:0, instance:com.uiautomation.test.loginPageTest@568ff82]" started-at="2024-03-06T18:53:40Z" name="loginApplication" finished-at="2024-03-06T18:53:41Z" duration-ms="381" status="PASS">
+        <test-method signature="loginApplication()[pri:0, instance:com.uiautomation.test.loginPageTest@568ff82]" started-at="2024-03-08T16:08:23Z" name="loginApplication" finished-at="2024-03-08T16:08:24Z" duration-ms="329" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginApplication -->
-        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.uiautomation.test.loginPageTest@568ff82]" started-at="2024-03-06T18:53:41Z" name="browserClose" finished-at="2024-03-06T18:53:41Z" duration-ms="173" status="PASS">
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:com.uiautomation.test.loginPageTest@568ff82]" started-at="2024-03-08T16:08:24Z" name="browserClose" finished-at="2024-03-08T16:08:24Z" duration-ms="134" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserClose -->
